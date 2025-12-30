@@ -3,7 +3,7 @@
 
 
 
-<h1 align="left">Hello Mate i'm Ziyaan👋</h1>
+<h1 align="left">Hello Mate i'm Zayaan👋</h1>
 
 ##
 
